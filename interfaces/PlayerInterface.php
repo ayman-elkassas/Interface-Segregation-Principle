@@ -4,7 +4,5 @@ namespace interfaces;
 
 interface PlayerInterface
 {
-	public function attack();
-	public function defense();
-	public function keeping();
+	public function play();
 }
